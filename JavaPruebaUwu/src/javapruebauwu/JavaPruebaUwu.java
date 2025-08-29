@@ -11,7 +11,8 @@ package javapruebauwu;
 public class JavaPruebaUwu {
 
     public static void main(String[] args) {
-        System.out.println("Hola mundito");
+        int num = 10;
+        System.out.println("El numero es: " + num);
     }
     
 }
